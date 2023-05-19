@@ -40,6 +40,13 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
-      TU ALGORITMO AQUI  
+      1.- inicio
+      2.- declarar qkm(int),qlt(int),ckm(int)
+      3.- mostrar "ingresa km recorridos"
+      4.- asignar qkm
+      5.- asignar ckm = 20.8
+      6.- qlt = qkm * ckm
+      7.- mostrar "Consumiste ",qlt,"litros de gasolina en tus ",qkm,"recorridos"
+      11.- fin TU ALGORITMO AQUI  
 
 Ahora llevalos a PSINT
