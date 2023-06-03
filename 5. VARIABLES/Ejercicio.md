@@ -3,38 +3,73 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 
-      TU RESPUESTA AQUI
+      Variables Numéricas
 
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 
-      TU RESPUESTA AQUI
+      Variables Numéricas
 
 ¿Qué tipo de dato debe tener una variable para contener el nombre de pila de una persona?
 
-      TU RESPUESTA AQUI
+      Variables Alfanuméricas
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-      TU RESPUESTA AQUI
+      Variables Lógicas
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 
-      TU RESPUESTA AQUI
+      Variables Numéricas
       
 ## EJERCICIO 2
 
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
-      TU ALGORITMO AQUI
+     cal1(float) 
+     cal2(float)
+     cal3(float)
+     cal4(float)
+     promedio(float)
+     nombre(str)
+     MOSTRAR ('ingresa el nombre del alumno')
+      ASIGNAR nombre
+
+       MOSTRAR ('ingresa el nombre del alumno')
+      ASIGNAR nombre
+      MOSTRAR 'ingresa la calificacion 1 de',nombre)
+      ASIGNAR cal1
+      MOSTRAR 'ingresa la calificacion 2 de',nombre)
+      ASIGNAR cal2
+      MOSTRAR 'ingresa la calificacion 3 de',nombre)
+      ASIGNAR cal3
+      MOSTRAR 'ingresa la calificacion 3 de',nombre)
+      ASIGNAR cal4
       
+      promedio=(cal1+cal2+cal3+cal4+)/4
+      
+       nombre,': calificación 1:',cal1,' calificación 2:',cal2,' calificación 3:',cal3,' calificación 4:',cal4, 'por lo tano su promedio es de: ',prom
+     
       
 ## EJERCICIO 3
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-      TU ALGORITMO AQUI  
+     //INCIO
+     
+     //DECLARAR
+     nom(str)
+      
+      //PROCESO
+      mostrar "Escribe el nombre a generar"
+      Asignar nom
+      
+      
+      Mostrar "Tu nombre es ",nom
+      
+      FIN
+      
 
 ## EJERCICIO 3
 
