@@ -1,6 +1,23 @@
 1. Realiza un algoritmo y diagrama de flujo de un programa que compare dos números e indique cual es mayor.
   
-        TU ALGORITMO Y DIAGRAMA AQUI
+        1. INICIO
+        2. Declarar(num1)int
+                   (num2)int
+                   (com)bol
+                   
+        3.  Asignar
+                    num1 =random(0,100)
+                    num2 random (0,100)
+     
+        4.  HACER 
+         SI num1 < num2
+         Escribir num1, "Es mayor que", num2
+         SI NO
+         Escribir num2, "Es mayor que", num1
+         FIN SI
+         5. fin
+
+
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
